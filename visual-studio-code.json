@@ -1,0 +1,16 @@
+{
+  "makefile.configureOnOpen": true,
+  "editor.renderWhitespace": "all",
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.xlsx": "default"
+  },
+  "workbench.editor.wrapTabs": true
+}
